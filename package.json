@@ -13,5 +13,6 @@
 	},
 	"author": "Yehudah Silberg",
 	"description": "A project boilerplate for NPM on FCC",
-	"keywords": ["freecodecamp", "boilerplate", "npm", "node"]
+	"keywords": ["freecodecamp", "boilerplate", "npm", "node"],
+	"license": "MIT"
 }
