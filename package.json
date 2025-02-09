@@ -10,5 +10,8 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
-	}
+	},
+	"author": "Yehudah Silberg",
+	"description": "A project boilerplate for NPM on FCC",
+	"keywords": ["freecodecamp", "boilerplate", "npm", "node"]
 }
